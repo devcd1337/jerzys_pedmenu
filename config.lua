@@ -24,7 +24,7 @@ Config.CheckPerms = function(cId)
 end
 
 Config.Auth = {
-    ["citizenid"] = {
+    citizenid = {
         ped = {
             {
                 name = 'NAME',
